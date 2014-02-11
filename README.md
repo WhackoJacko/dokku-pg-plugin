@@ -4,6 +4,7 @@ PostgreSQL plugin for Dokku
 Project: https://github.com/progrium/dokku
 
 **Warning: This plugin is under development and still only tested with the below dependencies**
+**Warning: This plugin creates database in UTF-8**
 
 Requirements
 ------------
